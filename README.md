@@ -5,12 +5,12 @@ This is the AI course with heavy focus on logic and planning. Learning algorithm
 
 ### Homework 1
 
-Written Assignment: PEAS descriptions, Heuristics
+Written Assignment: PEAS descriptions, Heuristics  
 Programming Assignment: Breadth First Search, Depth First Search, A* Algorithm, Action Planning
 
 ### Homework 2
 
-Written Assignment: First Order Logic, Knowledge Bases, Resolution
+Written Assignment: First Order Logic, Knowledge Bases, Resolution  
 Programming Assignment: Playing Games with Minimax Agents
 
 ### Homework 3
